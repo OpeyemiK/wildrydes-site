@@ -5,6 +5,6 @@ window._config = {
         region: 'us-west-1'
     },
     api: {
-        invokeUrl: ''
+        invokeUrl: 'https://eydsmx2c11.execute-api.us-west-1.amazonaws.com/prod'
     }
 };
